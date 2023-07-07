@@ -13,7 +13,7 @@ This project aims to develop a system for detecting vehicle crashes in video sur
 ## Project Updates
 
 ### Day 1
-#### Thumbnail for Day 1
+#### Thumbnail - 1 
 [![Day 1](Readme/1.jpg)](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_detecting-abnormal-activity-in-video-surveillance-activity-7081667778675392512-oV0E?utm_source=share&utm_medium=member_desktop)
 
 Today's Progress:
@@ -30,6 +30,8 @@ Next Steps:
 4. Stay dedicated and committed to achieving accurate and reliable abnormal activity detection in video surveillance.
 
 ### Day 2
+#### Thumbnail - 2
+[![Day 2](Readme/2.webp)](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_project19-anomalydetection-videosurveillance-activity-7081992603558174720-ktPK?utm_source=share&utm_medium=member_desktop) 
 
 Today's Progress:
 1. Started the day with a busy schedule, participating in a machine learning hackathon.
@@ -46,6 +48,9 @@ Next Steps:
 4. Attend to the ongoing machine learning hackathon and make the most out of the learning experience.
 
 ### Day 3
+#### Thumbnail - 3
+[![Day 3](Readme/3.webp)](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_realtime-vehicle-crash-detection-using-cnn-activity-7082376360584708096-oO0y?utm_source=share&utm_medium=member_desktop)
+
 
 Today's Progress:
 1. Acknowledged the difficulties encountered in the previous approach and contemplated a potential change in the project topic.
@@ -61,6 +66,8 @@ Next Steps:
 5. Maintain commitment to the ongoing hackathon, leveraging the opportunity for learning and growth.
 
 ### Day 4
+#### Thumbnail - 4
+[![Day 4](Readme/4.webp)](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_realtime-vehicle-crash-detection-using-cnn-activity-7082725426892017664-L9r6?utm_source=share&utm_medium=member_desktop) 
 
 Today's Progress:
 1. Started the day with a pleasant breakfast invitation from my parents' house, embracing family time and planning for a future trip.
@@ -78,6 +85,8 @@ Next Steps:
 4. Maintain a growth mindset, embracing challenges, and seeking further opportunities to enhance skills and knowledge.
 
 ### Day 5
+#### Thumbnail - 5
+[![Day 5](Readme/5.jpg)](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_projectupdate-day5-finaltouches-activity-7083107353725665280-336e?utm_source=share&utm_medium=member_desktop)
 
 Today's Progress:
 1. Added boundary boxes to the main project, ensuring clear visualization of detected vehicle crashes.
