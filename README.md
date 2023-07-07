@@ -119,7 +119,7 @@ Thank you for joining me on this journey. Stay motivated and keep pursuing your 
 ## Usage
 
 To use this project, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/project-19.git`
+1. Clone the repository: `git clone https://github.com/ChildEater69/Project19-Abnormal-Video-Survillence.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Download the HWID12 Highway Incidents Detection Dataset from [here](https://lnkd.in/dz7N3gpG) and extract it to the project's root directory.
 4. Train the model by running `python train.py`.
