@@ -2,11 +2,13 @@
 
 This project aims to develop a system for detecting vehicle crashes in video surveillance footage, with the goal of enhancing road safety. The project utilizes machine learning techniques to identify abnormal activities indicative of a crash and provides accurate predictions.
 
-## 5-Day Photo Grid
+## Daily Video Link
+
 
 | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
 | --- | --- | --- | --- | --- |
-| ![Day 1](Readme/1.jpg) | ![Day 2](Readme/2.webp) | ![Day 3](Readme/3.webp) | ![Day 4](Readme/4.webp) | ![Day 5](Readme/5.jpg) |
+| [![Day 1](Readme/1.jpg)](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_detecting-abnormal-activity-in-video-surveillance-activity-7081667778675392512-oV0E?utm_source=share&utm_medium=member_desktop) | [![Day 2](Readme/2.webp)](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_project19-anomalydetection-videosurveillance-activity-7081992603558174720-ktPK?utm_source=share&utm_medium=member_desktop) | [![Day 3](Readme/3.webp)](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_realtime-vehicle-crash-detection-using-cnn-activity-7082376360584708096-oO0y?utm_source=share&utm_medium=member_desktop) | [![Day 4](Readme/4.webp)](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_realtime-vehicle-crash-detection-using-cnn-activity-7082725426892017664-L9r6?utm_source=share&utm_medium=member_desktop) | [![Day 5](Readme/5.jpg)](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_projectupdate-day5-finaltouches-activity-7083107353725665280-336e?utm_source=share&utm_medium=member_desktop) |
+
 
 ## Project Updates
 
