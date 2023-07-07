@@ -2,6 +2,7 @@
 
 This project aims to develop a system for detecting vehicle crashes in video surveillance footage, with the goal of enhancing road safety. The project utilizes machine learning techniques to identify abnormal activities indicative of a crash and provides accurate predictions.
 
+
 ## Project Updates
 
 ### Day 1
@@ -85,11 +86,11 @@ Day 5: 2 hours
 
 Thank you for joining me on this journey. Stay motivated and keep pursuing your passions!
 
-## Demo
 
-(Project19-Abnormal-Video-Survillence/Accident-Detection-System-main/Accident-Detection-System-main
-/Demo.gif)
+## Demo Video 
+-------------------------
 
+![Demo](https://github.com/ChildEater69/Project19-Abnormal-Video-Survillence/assets/115105709/e173d2be-2268-45e9-be6d-055672c5e9bd)
 
 
 
