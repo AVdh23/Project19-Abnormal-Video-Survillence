@@ -13,6 +13,8 @@ This project aims to develop a system for detecting vehicle crashes in video sur
 ## Project Updates
 
 ### Day 1
+#### Thumbnail for Day 1
+[![Day 1](Readme/1.jpg)](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_detecting-abnormal-activity-in-video-surveillance-activity-7081667778675392512-oV0E?utm_source=share&utm_medium=member_desktop)
 
 Today's Progress:
 1. Developed an encoder-decoder model specifically designed for detecting abnormal activities in video surveillance footage.
