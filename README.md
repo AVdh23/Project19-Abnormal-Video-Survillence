@@ -2,9 +2,6 @@
 
 This project aims to develop a system for detecting vehicle crashes in video surveillance footage, with the goal of enhancing road safety. The project utilizes machine learning techniques to identify abnormal activities indicative of a crash and provides accurate predictions.
 
-| [<img src="1/1.png" width="200" alt="Day 1 Screenshot">](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_100days25projectchallenge-100days25projectchallenge-activity-7062363237886959616-YeLp?utm_source=share&utm_medium=member_desktop) | [<img src="1/2.png" width="200" alt="Day 2 Screenshot">](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_100days25projectchallenge-100days25projectchallenge-activity-7062787769483296769-vx7O?utm_source=share&utm_medium=member_desktop) | [<img src="1/3.png" width="200" alt="Day 3 Screenshot">](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_100days25projectchallenge-100days25projectchallenge-activity-7063143354485620736-Vu6Y?utm_source=share&utm_medium=member_desktop) | [<img src="1/4.png" width="200" alt="Day 4 Screenshot">](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_100days25projectchallenge-github-neuralnetworks-activity-7063505737846538240-xVdz?utm_source=share&utm_medium=member_desktop) |
-| :---: | :---: | :---: | :---: |
-| Day 1 | Day 2 | Day 3 | Day 4 |
 
 ## Project Updates
 
